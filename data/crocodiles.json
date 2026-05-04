@@ -1,0 +1,46 @@
+{
+    "crocodilos": [
+        {
+            "id": 1,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_bird": "2010-06-27",
+            "age": 12
+        },
+        {
+            "id": 2,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_bird": "2010-06-27",
+            "age": 12
+        },
+        {
+            "id": 3,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_bird": "2010-06-27",
+            "age": 12
+        },
+        {
+            "id": 4,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_bird": "2010-06-27",
+            "age": 12
+        },
+        {
+            "id": 5,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_bird": "2010-06-27",
+            "age": 12
+        },
+        {
+            "id": 6,
+            "name": "Bert",
+            "sex": "M",
+            "date_of_bird": "2010-06-27",
+            "age": 12
+        }
+    ]
+}
